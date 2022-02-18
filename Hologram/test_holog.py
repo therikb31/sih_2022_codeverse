@@ -3,7 +3,7 @@ import numpy as np
 
 #manual input
 length = 1920
-d = 400
+d = 200
 # width = 480
 # fps = 30
 # height = length
@@ -62,3 +62,4 @@ while(1):
 
 cap.release()
 out.release()
+print("done")

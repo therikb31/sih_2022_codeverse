@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Import libraries
 import numpy as np
 import pandas as pd
@@ -32,7 +31,6 @@ def plot_data(rows, cols, lower_value, upper_value):
         plt.tight_layout()
         plt.show()
 plot_data(rows=1, cols=7, lower_value=0, upper_value=len(df))
-=======
 # Import Libraries
 import cv2
 import numpy as np
@@ -185,4 +183,3 @@ if __name__ == '__main__':
     import sys
     predict_gender("download.jpeg")
 
->>>>>>> aaba087f894f43107f4c7b1bfd186b3d8105fe8f
