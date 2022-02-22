@@ -3,11 +3,11 @@ import numpy as np
 
 #manual input
 length = 1920
-d = 200
+d = 400
 # width = 480
 # fps = 30
 # height = length
-infile = "Hologram/test.mp4"
+infile = "Hologram/test_in.mp4"
 outfile = "Hologram/test_out.mp4"
 padding = 0
 screen_below_pyramid = False
